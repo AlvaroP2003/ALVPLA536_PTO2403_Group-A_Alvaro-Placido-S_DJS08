@@ -1,5 +1,7 @@
 # **Vans Life App**
 
+Loom Link - https://www.loom.com/share/a6637b92ad734c769555d9dd55d7f563?sid=93c1b066-ba21-4902-95d8-34755128ef6d
+
 **Note:** This is a practice project created for my studies. All content and code in this repository are for learning purposes and to mimic a GitHub `README.md`. The code itself is not intended for practical use.
 
 A React-based web application that allows users to easily rent vans for their travel and adventure needs. With an intuitive interface, users can browse available vans, check availability, and manage their bookings.
