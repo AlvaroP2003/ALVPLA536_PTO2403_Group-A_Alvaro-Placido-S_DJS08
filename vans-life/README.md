@@ -98,12 +98,6 @@ Follow these steps to get the project up and running locally:
 
 ---
 
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## **Contact**
 
-For any inquiries, reach out to me at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, feel free to reach out to me at [alvaroplacido20032003@gmail.com](mailto:alvaroplacido20032003@gmail.com).
