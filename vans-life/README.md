@@ -1,8 +1,109 @@
-# React + Vite
+# **Vans Life App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web application that allows users to easily rent vans for their travel and adventure needs. With an intuitive interface, users can browse available vans, check availability, and manage their bookings.
 
-Currently, two official plugins are available:
+**Note:** This is a practice project created for my studies. All content and code in this repository are for learning purposes and to mimic a GitHub `README.md`. The code itself is not intended for practical use.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **Table of Contents**
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Built With](#built-with)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+---
+
+## **Installation**
+
+Follow these steps to get the project up and running locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/vans-life.git
+   ```
+
+2. Navigate into the project directory:
+   ```bash
+   cd vans-life
+   ```
+
+3. Install the required dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+5. Open your browser and go to `http://localhost:3000` to start using the app.
+
+---
+
+## **Usage**
+
+- Users can view available vans for rent by browsing through the listings.
+- Select a van, check its availability, and proceed with the booking process.
+- Manage bookings by viewing the status and updating reservation details.
+
+---
+
+## **Features**
+
+- Browse a wide selection of vans available for rent.
+- Check van availability by selecting dates and locations.
+- User authentication for booking management.
+- Mobile-friendly interface for on-the-go access.
+- Admin dashboard for managing van listings and bookings.
+
+---
+
+## **Screenshots**
+
+![Home Page](path-to-screenshot.png)
+![Booking Page](path-to-screenshot.png)
+
+---
+
+## **Built With**
+
+- **React.js** - A JavaScript library for building user interfaces.
+- **Vite** - A fast build tool for React projects.
+- **MirageJS** - For mocking the API and simulating van availability.
+- **React Icons** - For icons and visual elements.
+
+---
+
+## **Dependencies**
+
+- **React** - A JavaScript library for building user interfaces.
+- **Vite** - A fast build tool for React projects.
+- **MirageJS** - For mocking API responses (simulating van availability).
+- **React Icons** - For adding customizable icons to the app.
+
+---
+
+## **Contributing**
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -m 'Add feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Open a Pull Request to the main branch.
+
+---
+
+## **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## **Contact**
+
+For any inquiries, reach out to me at [your-email@example.com](mailto:your-email@example.com).
