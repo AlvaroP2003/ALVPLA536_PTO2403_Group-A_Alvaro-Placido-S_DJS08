@@ -1,8 +1,9 @@
 # **Vans Life App**
 
+**Note:** This is a practice project created for my studies. All content and code in this repository are for learning purposes and to mimic a GitHub `README.md`. The code itself is not intended for practical use.
+
 A React-based web application that allows users to easily rent vans for their travel and adventure needs. With an intuitive interface, users can browse available vans, check availability, and manage their bookings.
 
-**Note:** This is a practice project created for my studies. All content and code in this repository are for learning purposes and to mimic a GitHub `README.md`. The code itself is not intended for practical use.
 
 ## **Table of Contents**
 - [Installation](#installation)
